@@ -8,3 +8,12 @@ This project is a clone of the Myntra e-commerce platform built using React and 
 <li>View a summary of selected items with total price and discounts.</li>
 <li>Responsive design for various devices.</li>
 </ul>
+<h2>Technologies Used</h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
